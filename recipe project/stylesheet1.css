@@ -1,0 +1,46 @@
+#heading{background-color: maroon;
+}
+
+
+
+h1{
+    font-family: 'Cinzel', serif;
+    text-align: center;
+}
+#image1 {background-color: red; float: right}
+#image div{
+    height: 20px;
+    width: 20%;
+
+}
+#spice{
+     float: left;
+}
+#lines{
+    float: left;
+}
+body{
+    background-color: grey;
+}
+#he{
+    background-color:maroon;
+}
+#hea{
+    background-color:maroon;
+}
+#heaa{
+    background-color:maroon;
+}
+.image2{
+    float: right;
+}
+#bodi{border-style:dotted;
+
+}
+.foot{
+    background-color: white;
+    padding: 5px;
+    text-align: center;
+}
+
+    
